@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">JustJava2</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="initial_quantity_value">2</string>
+    <string name="name">Naam</string>
+    <string name="order">Order kare</string>
+    <string name="order_summary_chocolate">chocolate Shamil? <xliff:g id="addChocolate" example="true">%b</xliff:g></string>
+    <string name="order_summary_name">Naam <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_price">Paise <xliff:g id="price" example="$10">%s</xliff:g></string>
+    <string name="order_summary_quantity">Tadad <xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="order_summary_whipped_cream">Whipped Cream Shamil? <xliff:g id="addWhippedCream" example="true">%b</xliff:g></string>
+    <string name="quantity">Tadad</string>
+    <string name="thank_you">Shukriya</string>
+    <string name="toppings">Ajza</string>
+</resources>
